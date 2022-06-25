@@ -3,4 +3,4 @@ Complete code of the website I made (without wordpress) for a company during my 
 
 ***The contents in this code may be subject to copyright, as this website is now owned and used by Aim In Med Devices LLP.***
 
-***The Images and emailhandler file have not been uploaded due to security reasons.***
+***The Images and emailhandler.php file have not been uploaded due to security reasons.***
